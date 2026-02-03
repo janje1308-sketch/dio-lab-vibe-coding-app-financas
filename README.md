@@ -73,13 +73,59 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
+- Seu **prompt final** (PRD);
+- MVP - Aplicativo de Organização de Finanças Pessoais
+
+Objetivo
+Validar se usuários iniciantes conseguem registrar gastos e acompanhar metas financeiras de forma prática através de uma experiência conversacional.
+
+Principais Telas
+1. Tela de Conversa (Chat Financeiro)
+   - Registrar gastos em linguagem natural.
+   - Classificação automática das transações.
+   - Sugestões rápidas do Agente Financeiro.
+
+2. Tela de Metas
+   - Definição simples de metas (ex: economizar R$200/mês).
+   - Barra de progresso.
+   - Alertas amigáveis ao se aproximar do limite.
+
+3. Tela de Relatórios
+   - Gráficos básicos (pizza ou barras).
+   - Resumo semanal/mensal em linguagem acessível.
+
+4. Tela de Dicas
+   - Recomendações personalizadas de economia.
+   - Exemplos práticos e educativos.
+
+Recursos Necessários
+- Processamento de Linguagem Natural (NLP).
+- Motor de classificação automática de gastos.
+- Banco de dados simples para armazenar transações e metas.
+- Interface conversacional intuitiva.
+- Sistema de regras para dicas de economia.
+
+Validação Inicial
+1. Teste com grupo piloto (10–20 iniciantes).
+2. Métricas de sucesso:
+   - Percentual que registram 5+ transações na primeira semana.
+   - Percentual que definem ao menos uma meta.
+   - Feedback qualitativo sobre clareza das dicas.
+3. Iteração rápida:
+   - Ajustar categorias automáticas.
+   - Melhorar linguagem do Agente Financeiro.
+
+Conclusão
+O MVP deve ser leve, conversacional e educativo, reduzindo barreiras para quem nunca controlou suas finanças. A experiência deve parecer um bate-papo com um assistente que entende hábitos e sugere melhorias sem burocracia.
+
+- Prints ou pequenos vídeos das interações com a IA;
+- <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/072a244e-3b0e-45f4-b3f8-d4d5cfdc24cf" />
+
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+  - O que funcionou bem?  sim
+  - O que não funcionou como o esperado? infelismente poucas interações gratuitas no lovable 
+  - O que aprendeu sobre conversar com IAs? é como falar com uma pessoa
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
